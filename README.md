@@ -1,10 +1,10 @@
 # Extract Visual Studio Online Project Info
-This project connects to the Visual Studio Online REST API to read information about user commits and team builds.
+This project connects to the **Visual Studio Online REST API** to read information about user commits and team builds.
 
 It was written fairly quickly so pull requests with improvements and fixes welcome!
 
 ## Running the sample
-From Visual Studio create a local AppSettingsSecrets.config file (not included in this code) with the app settings one folder up from the solution folder. Here's an example content for the AppSettingsSecrets.config file:
+From Visual Studio create a local **AppSettingsSecrets.config** file (not included in this code) with the app settings one folder up from the solution folder. Here's an example content for the AppSettingsSecrets.config file:
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
